@@ -29,4 +29,12 @@
   text-decoration: none;
   font-size: 13px;
 }
+
+.nav-links ul li::after{
+  content:'';
+  height: 2px;
+  background: #1BC6B4;
+  display: block;
+  margin: auto;
+}
   
