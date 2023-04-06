@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: "Monaco", "monospace";
 }
 
 .header{
@@ -46,7 +47,6 @@
   
 .text-box{
   width: 90%;
-  background-color: #282C30;
   color: white;
   position: absolute;
   top: 50%;
