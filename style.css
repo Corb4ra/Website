@@ -16,7 +16,6 @@
 .nav-links{
   flex:1;
   text-align: right;
-  font-family: "Georgia", "serif";
 }
 
 .nav-links ul li{
@@ -24,13 +23,11 @@
   display: inline-block;
   padding: 8px 12px;
   position: relative;
-  font-family: "Georgia", "serif";
-  font-size: 14px;
 }
 
 .nav-links ul li a{
   color:#fff;
-
+  text-decoration: none;
 }
 
 .nav-links ul li::after{
