@@ -16,6 +16,7 @@
 .nav-links{
   flex:1;
   text-align: right;
+  font-family: "Georgia", "serif";
 }
 
 .nav-links ul li{
