@@ -71,9 +71,29 @@
   color: white;
 }
   
+.text-box2{
+  width: 80%;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
   
-  
-  
+.text-box2 h1{
+  font-size: 62px;
+}
+
+.text-box2 h2{
+  font-size:44px;
+}
+
+.text-box2 p{
+  margin: 10px 0 40px;
+  font-size: 18px;
+  color: white;
+}
   
   
   
